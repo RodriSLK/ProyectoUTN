@@ -1,9 +1,9 @@
 # ProyectoUTN
 Trabajo Practico con Bootstrap
    
-    Alumno: Sanz Leyria Isaac Rodrigo
+  *  Alumno: Sanz Leyria Isaac Rodrigo
     
-    Legajo: 46256
+  * Legajo: 46256
 
 Dentro de la carpeta ProyectoIndex se encuentran los archivos.html y archivo.jpg con su respectivo codigo e imagen.
 
